@@ -10,7 +10,7 @@ DevOps, Cloud Infrastructure, and Cybersecurity.
 - 🔭 Currently working with AWS, Kubernetes, Terraform, and CI/CD
 - 🌱 Learning AWS architecture, Linux, networking, and system administration
 - 📍 Ho Chi Minh City, Vietnam
-- 📫 Email: your-email@example.com
+- 📫 Email: nvh140404@gmail.com
 
 ## Technical Skills
 
